@@ -2,6 +2,10 @@
 An E-commerce web application built using Spring Boot, JSP, and MySQL, providing core functionalities of an online shopping platform. This project implements key e-commerce features like product management, user authentication, cart handling, and admin features.
 
 ---
+## 📸 Preview
+<img width="1920" height="1800" alt="screencapture-localhost-8080-index-2026-04-17-13_29_14" src="https://github.com/user-attachments/assets/bf65ec0a-cede-496a-b3e2-4522a34c5721" />
+
+---
 ## ✨ Features
 
 - **User Features**
