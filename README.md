@@ -121,7 +121,11 @@ E-commerce-project-springBoot-main/
 
 ---
 
-## 📜 License
+## 👤 Author
 
-This project is licensed under the terms of the **MIT License**.  
+**Vikash Verma**
+Aspiring Data Analyst | Excel · SQL · Power BI · Python
+E-mail- vikashverma566@gmail.com
+
+---
 
