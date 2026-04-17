@@ -124,8 +124,7 @@ E-commerce-project-springBoot-main/
 ## 👤 Author
 
 **Vikash Verma**
-Aspiring Data Analyst | Excel · SQL · Power BI · Python
-E-mail- vikashverma566@gmail.com
+Aspiring Data Analyst | Excel · SQL · Power BI · Python | E-mail- vikashverma566@gmail.com
 
 ---
 
