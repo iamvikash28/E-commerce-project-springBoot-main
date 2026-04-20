@@ -116,7 +116,6 @@ E-commerce-project-springBoot-main/
 │   │   │       └── demo.jsp
 │   └── target/ (generated files after build)
 
-
 ---
 
 ## 🗄️ Database Setup
@@ -136,4 +135,3 @@ E-commerce-project-springBoot-main/
 Aspiring Data Analyst | Excel · SQL · Power BI · Python | E-mail- vikashverma566@gmail.com
 
 ---
-
